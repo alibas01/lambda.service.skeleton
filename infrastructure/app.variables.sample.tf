@@ -3,5 +3,5 @@ variable "app_name" {
 }
 
 variable "app_region" {
-  default = "us-west-1"
+  default = "ca-central-1"
 }

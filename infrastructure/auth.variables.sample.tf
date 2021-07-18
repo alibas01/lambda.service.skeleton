@@ -3,9 +3,9 @@ variable "auth_credentials_file" {
 }
 
 variable "auth_profile" {
-  default = "profilename"
+  default = "AliBas"
 }
 
 variable "account_id" {
-  default = ""
+  default = "384001838979"
 }
